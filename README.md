@@ -1,4 +1,4 @@
-# Sessão estratégica — Lucas Andrade
+# Sessão estratégica | Lucas Andrade
 
 Landing page estática para o teste prático. A implementação usa apenas HTML e CSS, sem framework, JavaScript ou etapa de build.
 
